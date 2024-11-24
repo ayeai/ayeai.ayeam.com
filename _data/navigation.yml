@@ -1,9 +1,9 @@
 main:
   - title: AyeAI
-    url: https://ayeai.xyz/
+    url: https://ayeai.ayeam.com/
     
-  - title: Create a site
-    url: /learn/
+  - title: Contact Us
+    url: /contactus/
   - title: Make a blog
     url: /learn/
   - title: Support meetings
