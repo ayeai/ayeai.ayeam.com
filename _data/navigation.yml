@@ -4,6 +4,12 @@ main:
     
   - title: Contact Us
     url: /contactus/
+  - title: Terms and Conditions
+    url: /terms/
+  - title: Refunds Policy
+    url: /refund/
+
+    
   - title: Make a blog
     url: /learn/
   - title: Support meetings
