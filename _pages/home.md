@@ -40,8 +40,6 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
-
 {% include feature_row %}
 
 At AyeAI | AyeAM, we are redefining education with cutting-edge AI-driven courses designed to empower learners and professionals alike. Our innovative platform integrates the latest advancements in artificial intelligence, adaptive learning, and interactive technologies to deliver transformative educational experiences.
@@ -71,3 +69,7 @@ Why Choose AyeAI | AyeAM?
     Expert Instructors: Learn from industry leaders and AI experts committed to your success.
 
 Join us at AyeAI | AyeAM, where education meets innovation. Together, let’s build skills, inspire leadership, and shape the future boldly.
+
+NOTICE: AyeAI and AyeAM are registered trademarks of Abhishek Choudhary in India and other geographies. Any unauthorized misrepresentation will be prosecuted to the maximum extent possible under law.
+[AyeAI TM](/trademark.ayeai.pdf)
+[AyeAM TM](/trademark.ayeam.pdf)
