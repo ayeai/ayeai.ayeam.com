@@ -47,24 +47,24 @@ feature_row:
 At AyeAI | AyeAM, we are redefining education with cutting-edge AI-driven courses designed to empower learners and professionals alike. Our innovative platform integrates the latest advancements in artificial intelligence, adaptive learning, and interactive technologies to deliver transformative educational experiences.
 Our Courses
 
-    AI-Powered Skill Development
-    Unlock the potential of AI in mastering critical skills. Our courses adapt dynamically to your learning pace, ensuring personalized growth in areas like coding, data analysis, and problem-solving.
+####   AI-Powered Skill Development
+   Unlock the potential of AI in mastering critical skills. Our courses adapt dynamically to your learning pace, ensuring personalized growth in areas like coding, data analysis, and problem-solving.
 
-    Leadership and Communication Training
-    Master the art of leadership and effective communication with our AI-driven feedback systems. Enhance your emotional intelligence and interpersonal skills through real-time, actionable insights.
+####   Leadership and Communication Training
+   Master the art of leadership and effective communication with our AI-driven feedback systems. Enhance your emotional intelligence and interpersonal skills through real-time, actionable insights.
 
-    EdTech for Educators
-    Equip educators with the tools to integrate AI into their teaching practices. Learn how to create engaging, personalized learning paths for students and leverage AI to optimize classroom experiences.
+####   EdTech for Educators
+   Equip educators with the tools to integrate AI into their teaching practices. Learn how to create engaging, personalized learning paths for students and leverage AI to optimize classroom experiences.
 
-    Neuro-Musical Learning
-    Explore our unique blend of music and AI for cognitive development. Enhance memory, focus, and creativity through scientifically designed neuro-musical courses.
+####   Neuro-Musical Learning
+   Explore our unique blend of music and AI for cognitive development. Enhance memory, focus, and creativity through scientifically designed neuro-musical courses.
 
-    Future-Ready Certifications
-    Prepare for tomorrow's challenges with certifications in AI ethics, neural networks, blockchain in education, and more. Stay ahead with skills that shape the future of learning and work.
+####   Future-Ready Certifications
+   Prepare for tomorrow's challenges with certifications in AI ethics, neural networks, blockchain in education, and more. Stay ahead with skills that shape the future of learning and work.
 
 Why Choose AyeAI | AyeAM?
 
-    Personalized Learning: Our AI adapts to your strengths and weaknesses for an optimized learning journey.
+   Personalized Learning: Our AI adapts to your strengths and weaknesses for an optimized learning journey.
     Immersive Content: Engage with interactive simulations, gamified lessons, and virtual reality modules.
     Real-Time Feedback: Get actionable insights and progress tracking powered by AI.
     Flexible Learning: Access courses anytime, anywhere—designed for modern, busy lifestyles.
