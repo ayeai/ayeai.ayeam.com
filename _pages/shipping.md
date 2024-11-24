@@ -1,7 +1,9 @@
 ---
-permalink: /terms/
-title: Terms & Conditions
+permalink: /shipping/
+title: Shipping TnC
 ---
+
+We DO NOT ship any products. All our courses are delivered online.
 
 This page is under development.
 We (Project VIKRAM) collect the following information in good faith for providing you with details about our upcoming products and activities. We do not share your personal information with any third party, and apply data and information security procedures to the best of our abilities, NOTWITHSTANDING, our systems and software are under active research and development and we are not in a position to assert compliance with any specific regulations in any any country or geography.
