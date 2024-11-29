@@ -12,12 +12,6 @@ To be eligible for a return, you must not have accessed the lessons and any lear
 
 Courses and learning material below INR 500 are not refundable
 
-Additional non-returnable items:
-Gift cards
-Downloadable software products
-Some health and personal care items used as teaching aids
-Any wearable used as a teaching material.
-
 To complete your return, we require a receipt or proof of purchase.
 
 Any item or course that is returned more than 30 days after delivery
