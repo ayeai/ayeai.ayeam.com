@@ -36,6 +36,7 @@ This course is tailored to aspirants aiming for top ranks in the Computer Scienc
 - Tailored study plans based on performance analytics  
 
 **SKU:** EX-GCSE-101  
+INR 10,999/- (Special discount available for those appearing for marks improvement)
 
 ---
 
