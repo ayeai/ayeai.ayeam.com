@@ -64,6 +64,7 @@ This course focuses on helping learners master spoken English for professional, 
 - Certification of fluency after course completion  
 
 **SKU:** BE-101  
+INR 3,999/- per month (Please check batch specific pricing discounts)
 
 ---
 
@@ -91,6 +92,7 @@ The Hindawi Programming System introduces foundational programming concepts in r
 - Includes Hindawi IDE for practice  
 
 **SKU:** HP-HB-102  
+INR 3,999/- per month (Please check batch specific pricing discounts)
 
 ---
 
@@ -118,6 +120,7 @@ This workshop is designed for innovators, researchers, and entrepreneurs looking
 - Guidance on global patenting processes  
 
 **SKU:** IP-WS-101  
+INR 4,999/- (does not include patent filing fees)
 
 ---
 
@@ -144,6 +147,7 @@ This hands-on workshop equips learners with practical skills in IoT-enabled robo
 - Certification in IoT and Robotics  
 
 **SKU:** IoT-RW-101  
+INR 3,999/- per month (Please check batch specific pricing discounts)
 
 ---
 
@@ -173,7 +177,7 @@ Our Courses
 
 Why Choose AyeAI | AyeAM?
 
-    Personalized Learning: Our AI adapts to your strengths and weaknesses for an optimized learning journey.
+  Personalized Learning: Our AI adapts to your strengths and weaknesses for an optimized learning journey.
     Immersive Content: Engage with interactive simulations, gamified lessons, and virtual reality modules.
     Real-Time Feedback: Get actionable insights and progress tracking powered by AI.
     Flexible Learning: Access courses anytime, anywhere—designed for modern, busy lifestyles.
@@ -196,7 +200,13 @@ Join us at AyeAI | AyeAM, where education meets innovation. Together, let’s bu
 - Case studies from smart hospitals  
 - Certification of competency in Medical IoT  
 
-**SKU:** HC-IoT-101  At AyeAI | AyeAM, we are redefining education with cutting-edge AI-driven courses designed to empower learners and professionals alike. Our innovative platform integrates the latest advancements in artificial intelligence, adaptive learning, and interactive technologies to deliver transformative educational experiences.
+**SKU:** HC-IoT-101  
+INR 5,999/- per month (Please check batch specific pricing discounts)
+
+
+-------------------------------------
+
+At AyeAI | AyeAM, we are redefining education with cutting-edge AI-driven courses designed to empower learners and professionals alike. Our innovative platform integrates the latest advancements in artificial intelligence, adaptive learning, and interactive technologies to deliver transformative educational experiences.
 Our Courses
 
    AI-Powered Skill Development
