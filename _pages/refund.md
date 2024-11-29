@@ -6,8 +6,6 @@ title: Refund and Returns Policy
 Refund Policy
 
 
-
-Returns
 Duration: Our refund policy lasts 30 days. If 30 days hgithub.comave gone by since your purchase, unfortunately we can’t offer you a refund or exchange.
 
 To be eligible for a return, you must not have accessed the lessons and any learning items must be unused and in the same condition that you received it. It must also be in the original packaging.
@@ -45,7 +43,8 @@ You will be responsible for paying for your own shipping costs for returning you
 
 Depending on where you live, the time it may take for your exchanged product to reach you, may vary.
 
-If you are shipping an item over $75, you should consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.
+If you are shipping an item over INR 500, you should consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.
 
+Please note: After confirmation of refund it will take a maximum of 90 working days for the refunds to be credited to your bank account. We can only refund by the original method of payment and to the same account from which payment was made.
 
 
