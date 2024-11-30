@@ -10,31 +10,11 @@ main:
     url: /refund/
 
     
-  - title: Make a blog
+  - title: Courses
     url: /learn/
   - title: Support meetings
     url: /meetings/
-  - title: Fork it
-    url: /fork/
-  - title: Update...
-    url: /fork/
-  - title: You are live...
-    url: /example3/
-  - title: Get is now!
-    url: /example4/
 
-  - title: Template
-    url: /template/
-  - title: Animation
-    url: /anim/
-    
-
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Posts"
-    url: /posts/
     
   - title: "Partners"
     url: /partners/
