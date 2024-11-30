@@ -3,7 +3,7 @@ permalink: /learn/
 title: Learn
 ---
 
-### [Click here](https://www.teacheron.com/tutor/axjX) to enrol into a course with AyeAI. Payment link will be shared only after initial discussion with student / guardian.
+### Note: Payment link will be shared only after initial discussion with student / guardian.
 
 ## **Featured Courses by AyeAI | AyeAM**  
 
