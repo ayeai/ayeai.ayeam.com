@@ -18,7 +18,7 @@ Any item or course that is returned more than 30 days after delivery
 
 Refunds (if applicable)
 Once your course cancellation request is received and authorized, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.
-If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within 7-10 working days. In case your account is not credited by the end of 10th working day, please email us for the refund details and check with your bank.
+If you are approved, then your refund will be credited to your credit card or original method of payment, within 7-10 working days. In case your account is not credited by the end of 10th working day, please email us for the refund details and check with your bank.
 
 Late or missing refunds (if applicable)
 If you haven’t received a refund yet, first check your bank account again.
