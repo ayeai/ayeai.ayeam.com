@@ -10,11 +10,8 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Explore our courses"
       url: "/learn/"
 excerpt:
-  <b>This is an AyePages™ site<br>
-  meant for academic purposes</b><br>
-  <small>
-  <a href="about/">More about AyePages™  </a>
-  </small>
+  <b>Explore AI, IoT, and Robotics with AyeAI ∴ AyeAM </b><br>
+
 feature_row:
   - image_path: /assets/images/image1.jpg
     alt: "Highlight1"
