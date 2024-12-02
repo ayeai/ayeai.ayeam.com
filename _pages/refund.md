@@ -8,8 +8,6 @@ Refund Policy
 
 Duration: Our refund policy lasts 30 days. If 30 days hgithub.comave gone by since your purchase, unfortunately we can’t offer you a refund or exchange.
 
-To be eligible for a return, you must not have accessed the lessons and any learning items must be unused and in the same condition that you received it. It must also be in the original packaging.
-
 Courses and learning material below INR 500 are not refundable
 
 To complete your return, we require a receipt or proof of purchase.
