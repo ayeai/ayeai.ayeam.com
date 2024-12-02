@@ -7,8 +7,8 @@ header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
   actions:
-    - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
-      url: "/join-us/"
+    - label: "<i class='fas fa-fw fa-handshake'></i> Explore our courses"
+      url: "/learn/"
 excerpt:
   <b>This is an AyePages™ site<br>
   meant for academic purposes</b><br>
