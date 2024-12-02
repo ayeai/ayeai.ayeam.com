@@ -17,7 +17,7 @@ To complete your return, we require a receipt or proof of purchase.
 Any item or course that is returned more than 30 days after delivery
 
 Refunds (if applicable)
-Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.
+Once your course cancellation request is received and authorized, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.
 If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within 7-10 working days. In case your account is not credited by the end of 10th working day, please email us for the refund details and check with your bank.
 
 Late or missing refunds (if applicable)
@@ -30,10 +30,10 @@ Sale items (if applicable)
 Only regular priced items may be refunded, unfortunately sale items cannot be refunded.
 
 
-Shipping (Not applicable for online courses)github.com
-To return your product, you should mail your product to: 547 Symphony Park Homes, Patancheru, Hyderabad - 502319, Telangana, INDIA.
+Shipping (Not applicable for online courses)
+For any course support material provided by us, you should mail the material to: 547 Symphony Park Homes, Patancheru, Hyderabad - 502319, Telangana, INDIA.
 
-You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.
+You will be responsible for paying for your own shipping costs for returning your course support materials. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.
 
 Depending on where you live, the time it may take for your exchanged product to reach you, may vary.
 
