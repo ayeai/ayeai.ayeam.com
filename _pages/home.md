@@ -5,7 +5,7 @@ hidden: true
 title: AyePages™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
+  overlay_image: https://ayeai.ayeam.com/assets/images/AyeAI_hero.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Explore our courses"
       url: "/learn/"
